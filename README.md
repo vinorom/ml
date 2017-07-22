@@ -1,2 +1,2 @@
 # ml
-Machine Learning practice
+Machine Learning contests
